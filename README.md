@@ -111,7 +111,6 @@ The data had to be normalized for the comparison to be performed and it is done 
 > #using caret library for generating the confusion matrix
 Confusion Matrix and Statistics
 
-          Reference
 Prediction No Yes
        No  99   0
        Yes  0  36
