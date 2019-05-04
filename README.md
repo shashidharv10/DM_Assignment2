@@ -109,7 +109,7 @@ The data had to be normalized for the comparison to be performed and it is done 
  99  36 
 
 > #using caret library for generating the confusion matrix
-Confusion Matrix and Statistics
+#Confusion Matrix and Statistics
 
 Prediction No Yes
        No  99   0
